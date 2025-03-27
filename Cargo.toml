@@ -9,5 +9,6 @@ default-features = false
 features = [
     "dynamic_linking",
     "bevy_core_pipeline",
+    "bevy_winit",
     #"multi_threaded",
 ]
